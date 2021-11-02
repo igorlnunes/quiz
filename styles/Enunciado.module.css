@@ -1,8 +1,16 @@
 .enunciado {
-    display: flex;
+    /* display: flex;
+     */
+     display: flex;
+     justify-content: center;
+     align-items: center;
+     height: 20vh;
+     font-size: 2rem;
+     padding: 5px;
 }
 
 .texto {
+    display: flex;
     font-size: 2.5rem;
     font-weight: 700;
 }

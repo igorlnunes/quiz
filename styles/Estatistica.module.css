@@ -1,0 +1,23 @@
+.Estatistica {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 10px;
+    font-weight: 400;
+}
+
+.valor {
+    display: flex;
+    height: 180px;
+    width: 180px;
+    align-items: center;
+    border-radius: 90px;
+    font-size: 4rem;
+    justify-content: center;
+}
+
+.texto {
+    color: #ddd;
+    font-size: 2.5rem;
+    font-weight: 400;
+}
